@@ -1,2 +1,2 @@
-# iron
-benimle calisan iyi yapar
+# omer-bulat
+benimle calis hayatı hackle
